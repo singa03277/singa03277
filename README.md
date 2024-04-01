@@ -8,5 +8,5 @@
 - Email : singa0327@yu.ac.kr
 
 ## Courses
-- OpenSoftware
+- OpenSourceSoftware
 - C++
